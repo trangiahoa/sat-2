@@ -8,3 +8,5 @@ for i in $(seq $1); do s=$((s + i)); done
 
 echo $s
 
+echo $PATH
+
